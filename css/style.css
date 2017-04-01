@@ -1,0 +1,13 @@
+.navbar {
+  list-style: none;
+  backgroung-color: #FAFBFC;
+}
+.navbar li {
+  display: inline-block;
+  padding-right: 10px;
+  list-style: none;
+  font-size: 1.25em;
+}
+a {
+  text-decoration: none;
+}
